@@ -1,0 +1,11 @@
+.padding{
+    background-color: white;
+}
+.howmany{
+    color: red;
+    font-weight: 700;
+}
+
+.rooms{
+    list-style-type: none;
+}
